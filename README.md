@@ -17,14 +17,6 @@ kham_chatbot is a sleek AI-powered chatbot app built using **Flutter** and **Ope
 ✅ Auto-scroll and input attachment preview  
 ✅ Simple login screen (mock for now)
 
----
-
-## 🖼️ UI Showcase
-
-| Login Page | Chatting & Generation | Image Upload & Response |
-|------------|------------------------|--------------------------|
-| ![Login](/images/login.png) | ![Chat1](/images/chat.png) | ![Chat2](/images/image_description.png) |
-
 
 ---
 
